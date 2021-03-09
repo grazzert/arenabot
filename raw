@@ -226,8 +226,11 @@
   },
   {
   "name": "",
+  "comment": "",
   "allyCode": "646411654",
-  "tagIdOnClimb": "345820847694544896"
+  "userIcon": ":skull_crossbones:",
+  "tagIdOnDrop": "345820847694544896",
+  "tagIdOnClimb": ""
   },
   {
   "name": "",
